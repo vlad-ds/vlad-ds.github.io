@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Products & Achievements
+title: Articles / Code / Jobs
 categories: [Miscellaneous, Jekyll]
 ---
 
